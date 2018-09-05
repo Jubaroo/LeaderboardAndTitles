@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../1.7 Common Files" />
+      <root url="file://$PROJECT_DIR$/../1.7 Common Files/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../1.7 Common Files/lib" />
+    </SOURCES>
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/../1.7 Common Files/SinduskLibrary.jar!/" />
+    </excluded>
+    <jarDirectory url="file://$PROJECT_DIR$/../1.7 Common Files" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../1.7 Common Files/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../1.7 Common Files/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
