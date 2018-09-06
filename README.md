@@ -9,10 +9,13 @@ Opting into the system will allow any player looking at any leaderboard to see y
 Leaderboards will display only the top 20 highest skilled players in each skill. This count includes anyone opted out of the Leaderboard system.
 If you are one of the top 20 in a leaderboard, your entry will be bold. It will also display your name even if you're opted out, but only for you.
 All GM characters are exempt from leaderboard entries. If someone has 99 in a skill and shows as Unknown, it's a player who obtained it **legitimately** and is opted out, not a GM.
-
+<img src="https://i.imgur.com/trzOd59.png" alt="hi" class="inline"/>
+<img class="ipsImage" alt="juYxdb7.png" src="https://i.imgur.com/juYxdb7.png">
 - **Total Skill** - tallies the total combined skill level of each player, then forms a leaderboard of the top 50 most overall skilled players to display. 
+<img class="ipsImage" alt="oNDbfvl.png" src="https://i.imgur.com/oNDbfvl.png">
 
 - **High Skills** - displays the highest skill values on the server, along with the player who has it and the skill it is. This is currently the only leaderboard where a single player can have multiple entries.
+<img src="https://i.imgur.com/U0oPDC1.png" alt="hi" class="inline"/>
 
 *There are 134 achievements to choose from with a variety of conditions. These achievements have been hand selected out of the nearly 500 in Wurm because they have a counter attached (more than a yes/no).Many achievements have been edited with new names, descriptions, and requirements to make them more functional than their vanilla iteration. Some of these achievements are essentially duplicates, with conditions such as "Kill a Spider" and "Kill 50 Spiders" being some examples.*
 
