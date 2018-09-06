@@ -2,7 +2,7 @@
 
 **Leaderboards**
 
-- There is now a Leaderboards action on your body and hand.
+- There is now a Leaderboards action on your body and hand, as well as on any skill.
 Selecting this will open up a new window in which you can select a leaderboard to view, or opt in/out of the system.
 Players will be **opted out by default**. Opting out means that your skill entry will still display on the leaderboard, but your name will show as "Unknown"
 Opting into the system will allow any player looking at any leaderboard to see your name if you're in the results.
