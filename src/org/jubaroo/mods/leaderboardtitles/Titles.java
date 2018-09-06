@@ -221,24 +221,6 @@ class Titles {
             getSingletonInstance().addExtendEntry("Swords_Legendary", 1524, "Samurai", "Samurai", 1000, "LEGENDARY");
             getSingletonInstance().addExtendEntry("Forestry_Legendary", 1525, "Silvanus", "Mother Nature", 10048, "LEGENDARY");
 
-            // =========================================================================================================
-            // ========================================== Custom Skill Titles ==========================================
-            // =========================================================================================================
-
-            // ========================================== Taxidermy ====================================================
-            getSingletonInstance().addExtendEntry("Taxidermy_Minor", 1700, "Junior Taxidermist", "Junior Taxidermist", 10096, "MINOR");
-            getSingletonInstance().addExtendEntry("Taxidermy_Normal", 1701, "Anthropomorphic Taxidermist", "Anthropomorphic Taxidermist", 10096, "NORMAL");
-            getSingletonInstance().addExtendEntry("Taxidermy_Master", 1702, "Head Hunter", "Head Hunter", 10096, "MASTER");
-            getSingletonInstance().addExtendEntry("Taxidermy_Epic", 1703, "Epic Taxidermist", "Epic Taxidermist", 10096, "EPIC");
-            getSingletonInstance().addExtendEntry("Taxidermy_Legendary", 1704, "Legendary Taxidermist", "Legendary Taxidermist", 10096, "LEGENDARY");
-
-            // ========================================== Gem Crafting =================================================
-            getSingletonInstance().addExtendEntry("GemCrafting_Minor", 1705, "Facetor", "Facetor", 11100, "MINOR");
-            getSingletonInstance().addExtendEntry("GemCrafting_Normal", 1706, "Gem Stone Cutter", "Gem Stone Cutter", 11100, "NORMAL");
-            getSingletonInstance().addExtendEntry("GemCrafting_Master", 1707, "Diamond Driller", "Diamond Driller", 11100, "MASTER");
-            getSingletonInstance().addExtendEntry("GemCrafting_Epic", 1708, "Gem Expert ", "Gem Expert ", 11100, "EPIC");
-            getSingletonInstance().addExtendEntry("GemCrafting_Legendary", 1709, "Gemologist", "Gemologist", 11100, "LEGENDARY");
-
             getSingletonInstance().ExtendEnumEntries();
 
         } catch (BadBytecode | NotFoundException | CannotCompileException e) {
