@@ -1,5 +1,7 @@
 # Leaderboard And Titles
 
+Adds a leaderboard for players that shows the top players in certain fields. Skills, unique kills, achievements, and more are tracked. Also adds new titles and the ability to add your own custom titles. 
+
 # **Leaderboard**
 
 - There is now a Leaderboards action on your body and hand, as well as on any skill.
