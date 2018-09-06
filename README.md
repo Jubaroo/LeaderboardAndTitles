@@ -11,6 +11,7 @@ If you are one of the top 20 in a leaderboard, your entry will be bold. It will 
 All GM characters are exempt from leaderboard entries. If someone has 99 in a skill and shows as Unknown, it's a player who obtained it **legitimately** and is opted out, not a GM.
 <img src="https://i.imgur.com/trzOd59.png" alt="hi" class="inline"/>
 <img class="ipsImage" alt="juYxdb7.png" src="https://i.imgur.com/juYxdb7.png">
+
 - **Total Skill** - tallies the total combined skill level of each player, then forms a leaderboard of the top 50 most overall skilled players to display. 
 <img class="ipsImage" alt="oNDbfvl.png" src="https://i.imgur.com/oNDbfvl.png">
 
