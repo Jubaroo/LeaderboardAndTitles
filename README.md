@@ -47,4 +47,5 @@ GIF Preview: https://gfycat.com/SlightRevolvingGoldfish
 <img class="ipsImage" alt="oNDbfvl.png" src="https://i.imgur.com/oNDbfvl.png">
 <img class="ipsImage" alt="U0oPDC1.png" src="https://i.imgur.com/U0oPDC1.png">
 
+**Paving example:**
 <img class="ipsImage" alt="juYxdb7.png" src="https://i.imgur.com/juYxdb7.png">
