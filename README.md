@@ -53,6 +53,4 @@ GIF Preview: https://gfycat.com/SlightRevolvingGoldfish
 
 # **Titles**
 
-Many new titles have been added for skills.
-
-New titles may be added with the properties file. Instructions can be found inside that file.
+Many new titles have been added for skills. New titles may be added with the properties file. Instructions can be found inside that file.
