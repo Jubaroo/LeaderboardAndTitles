@@ -24,9 +24,9 @@ All GM characters are exempt from leaderboard entries. If someone has 99 in a sk
 
 - **Kills** - displays the total kills in PvP a player has obtained. This counts any contribution on the right side of a death tab. (Unused)
 
-- **Deaths** displays the total amount of times a player has died in PvP combat. This counts any death that occurs in a death tab. (Unused) 
+- **Deaths** - displays the total amount of times a player has died in PvP combat. This counts any death that occurs in a death tab. (Unused) 
 
-- **Depots** Captured displays the amount of depots a player has captured. This only counts for the player who actually performs and finishes the capture action. Nearby players do not get a credit. (Used by a different mod)
+- **Depots Captured** - displays the amount of depots a player has captured. This only counts for the player who actually performs and finishes the capture action. Nearby players do not get a credit. (Used by a different mod)
 
 - **Uniques Slain** - Displays how many uniques each player has slain. Unfortunately, this will not apply to retroactive kills before this update was applied. Limited to top 20 entries. 
 
