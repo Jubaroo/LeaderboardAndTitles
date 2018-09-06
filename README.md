@@ -1,6 +1,6 @@
 # Leaderboard And Titles
 
-**Leaderboards**
+# **Leaderboard**
 
 - There is now a Leaderboards action on your body and hand, as well as on any skill.
 Selecting this will open up a new window in which you can select a leaderboard to view, or opt in/out of the system.
@@ -50,3 +50,9 @@ GIF Preview: https://gfycat.com/SlightRevolvingGoldfish
 **Paving example (all opted out except one):**
 
 <img class="ipsImage" alt="juYxdb7.png" src="https://i.imgur.com/juYxdb7.png">
+
+# **Titles**
+
+Many new titles have been added for skills.
+
+New titles may be added with the properties file. Instructions can be found inside that file.
