@@ -12,7 +12,7 @@ All GM characters are exempt from leaderboard entries. If someone has 99 in a sk
 
 **Total Skill** - tallies the total combined skill level of each player, then forms a leaderboard of the top 50 most overall skilled players to display. 
 
--**High Skills** - displays the highest skill values on the server, along with the player who has it and the skill it is. This is currently the only leaderboard where a single player can have multiple entries.
+- **High Skills** - displays the highest skill values on the server, along with the player who has it and the skill it is. This is currently the only leaderboard where a single player can have multiple entries.
 
 - There are 134 achievements to choose from with a variety of conditions. These achievements have been hand selected out of the nearly 500 in Wurm because they have a counter attached (more than a yes/no).Many achievements have been edited with new names, descriptions, and requirements to make them more functional than their vanilla iteration. Some of these achievements are essentially duplicates, with conditions such as "Kill a Spider" and "Kill 50 Spiders" being some examples.
 
