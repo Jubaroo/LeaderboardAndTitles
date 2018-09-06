@@ -10,7 +10,7 @@ Leaderboards will display only the top 20 highest skilled players in each skill.
 If you are one of the top 20 in a leaderboard, your entry will be bold. It will also display your name even if you're opted out, but only for you.
 All GM characters are exempt from leaderboard entries. If someone has 99 in a skill and shows as Unknown, it's a player who obtained it **legitimately** and is opted out, not a GM.
 
-**Total Skill** - tallies the total combined skill level of each player, then forms a leaderboard of the top 50 most overall skilled players to display. 
+- **Total Skill** - tallies the total combined skill level of each player, then forms a leaderboard of the top 50 most overall skilled players to display. 
 
 - **High Skills** - displays the highest skill values on the server, along with the player who has it and the skill it is. This is currently the only leaderboard where a single player can have multiple entries.
 
