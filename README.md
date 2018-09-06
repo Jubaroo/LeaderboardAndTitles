@@ -34,13 +34,16 @@ All GM characters are exempt from leaderboard entries. If someone has 99 in a sk
  
 GIF Preview: https://gfycat.com/SlightRevolvingGoldfish
 
-Main Leaderboard selection screen:
+**Main Leaderboard selection screen:**
+
 <img class="ipsImage" alt="trzOd59.png" src="https://i.imgur.com/trzOd59.png">
 
-Opt-Out players show up as "Unknown":
+**Opt-Out players show up as "Unknown":**
+
 <img class="ipsImage" alt="d9oGfp3.png" src="https://i.imgur.com/d9oGfp3.png">
 
-Special leaderboards including total overall skill level and highest actual skill levels:
+**Special leaderboards including total overall skill level and highest actual skill levels:**
+
 <img class="ipsImage" alt="oNDbfvl.png" src="https://i.imgur.com/oNDbfvl.png">
 <img class="ipsImage" alt="U0oPDC1.png" src="https://i.imgur.com/U0oPDC1.png">
 
